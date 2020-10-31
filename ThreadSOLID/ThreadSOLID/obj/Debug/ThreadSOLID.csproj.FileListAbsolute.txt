@@ -1,0 +1,6 @@
+E:\P509\C#\ThreadSOLID\ThreadSOLID\bin\Debug\ThreadSOLID.exe.config
+E:\P509\C#\ThreadSOLID\ThreadSOLID\bin\Debug\ThreadSOLID.exe
+E:\P509\C#\ThreadSOLID\ThreadSOLID\bin\Debug\ThreadSOLID.pdb
+E:\P509\C#\ThreadSOLID\ThreadSOLID\obj\Debug\ThreadSOLID.csprojAssemblyReference.cache
+E:\P509\C#\ThreadSOLID\ThreadSOLID\obj\Debug\ThreadSOLID.exe
+E:\P509\C#\ThreadSOLID\ThreadSOLID\obj\Debug\ThreadSOLID.pdb
